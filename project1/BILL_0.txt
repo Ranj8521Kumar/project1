@@ -1,0 +1,30 @@
+          HUNGRY MAKS                 
+ RGIPT Campus, Raibareli Sultanpur 
+ Road, Mubarkpur Mukhatiya, Uttar 
+          Pradesh, India
+       Contact No: 9569691588
+      website:www.hungrymaks.com
+       Sat Sep 30 02:50:41 2023
+
+           Quick Bill
+           Bill No: 1
+--------------------------------------
+Quick Bill                 User SAIF01
+Pay Mode:PhonePe                      
+--------------------------------------
+  Item      Qty     Rate        Total
+  Pizza       3      8.99        26.97
+  Pizza       3      8.99        26.97
+--------------------------------------
+Total Qty: 6     Total Amount: Rs53.94
+                  Grand Total: Rs53.94
+--------------------------------------
+Customer Ranjan(8521584878)
+--------------------------------------
+Paid Amount: Rs 53.94
+      Thank you for your order.       
+      Powered by TMBill v6.1.55       
+----------------------------------------
+----------------------------------------
+
+
